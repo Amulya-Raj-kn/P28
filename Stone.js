@@ -1,3 +1,5 @@
+//creating the stones 
+
 class Stone {
     constructor(x,y,width,height){
  
